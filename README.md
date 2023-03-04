@@ -1,4 +1,4 @@
-##Estudo sobre coleções
+## Estudo sobre coleções
 
 <p>
   Trata-se de uma aplicação desenvolvida para ser a disciplina Estrutura de Dados do curso de Ciência da Computação, que mostra o comportamento de coleções 
