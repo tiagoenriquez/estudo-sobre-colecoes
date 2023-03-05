@@ -33,3 +33,8 @@
   ordens foram invertidas. Pois, a fila recebeu os elementos a partir das remoções das pilhas, que sempre ocorrem do último, invertendo a ordem da coleção 
   que venha a receber seus elementos removidos.
 </p>
+
+<p>
+  Por isso, quando abrimos o programa, aparece uma janela mostrando a sequência 4 3 2 1 0 10 9 8 7 6. Os cinco primeiros números são da primeira etapa de     inserção e os cinco últimos da segunda etapa. Mas dentro de cada etapa, os números estão em ordem invertida.
+</p>
+
